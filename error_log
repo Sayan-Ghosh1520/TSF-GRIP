@@ -1,0 +1,4 @@
+[11-Jan-2021 06:40:18 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/h4fl4y0pgibr/public_html/amrit/config.php on line 3
+[11-Jan-2021 06:40:28 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/h4fl4y0pgibr/public_html/amrit/config.php on line 3
+[11-Jan-2021 06:42:04 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/h4fl4y0pgibr/public_html/amrit/config.php on line 3
+[11-Jan-2021 06:42:15 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/h4fl4y0pgibr/public_html/amrit/config.php on line 3
